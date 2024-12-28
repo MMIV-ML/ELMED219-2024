@@ -84,7 +84,7 @@ The objective and content of the course address: The computational mindset, imag
 
 | **Year**                    | Link             |
 | --------------------------- |  --              | 
-|2024 |https://github.com/MMIV-ML/ELMED219       |
+|2024 |https://github.com/MMIV-ML/ELMED219-2024       |
 |2023 |https://github.com/MMIV-ML/ELMED219-2023       |
 |2022 |https://github.com/MMIV-ML/ELMED219-2022  |
 |2021 |https://github.com/MMIV-ML/ELMED219-2021  |
@@ -105,4 +105,4 @@ _"Computational imaging, modelling and AI in biomedicine"_
 
 | **Year**                    | Link             |
 | --------------------------- |  --              | 
-|2024 |https://github.com/MMIV-ML/BMED365 |
+|2024 |https://github.com/MMIV-ML/BMED365-2024 |
